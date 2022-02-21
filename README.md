@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#" target="_blank" rel="noopener noreferrer">
-        <img width="100" src="https://github.com/SinceNovember/admintory/tree/master/images/slack-logo-84.png" alt="admintory logo" />
+        <img width="100" src="https://github.com/SinceNovember/admintory/blob/master/images/slack-logo-84.png" alt="admintory logo" />
     </a>
 </p>
 
@@ -68,9 +68,9 @@
 
 ## 界面
 
-| 控制台       | ![1640007303(1)](https://github.com/SinceNovember/admintory/tree/master/images/1640007303(1).jpg) | ![1640007343(1)](https://github.com/SinceNovember/admintory/tree/master/images/1640007343(1).jpg) |
+| 控制台       | ![1640007303(1)](https://github.com/SinceNovember/admintory/blob/master/images/1640007303(1).jpg) | ![1640007343(1)](https://github.com/SinceNovember/admintory/blob/master/images/1640007343(1).jpg) |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 聊天         | ![1640016007(1)](https://github.com/SinceNovember/admintory/tree/master/images/1640016007(1).jpg) | ![1640016174(1)](https://github.com/SinceNovember/admintory/tree/master/images/1640016174(1).jpg) |
+| 聊天         | ![1640016007(1)](https://github.com/SinceNovember/admintory/blob/master/images/1640016007(1).jpg) | ![1640016174(1)](https://github.com/SinceNovember/admintory/tree/master/images/1640016174(1).jpg) |
 | 聊天用户列表 | ![1640005343](https://github.com/SinceNovember/admintory/tree/master/images/1640005343.jpg) | ![1640005357](https://github.com/SinceNovember/admintory/tree/master/images/1640005357.jpg) |
 | 用户列表     | ![1640004300(1)](https://github.com/SinceNovember/admintory/tree/master/images/1640004300(1).jpg) | ![1640004323(1)](https://github.com/SinceNovember/admintory/tree/master/images/1640004323(1).jpg) |
 | 添加用户     | ![1640004524(1)](https://github.com/SinceNovember/admintory/tree/master/images/1640004524(1).jpg) | ![1640004541](https://github.com/SinceNovember/admintory/tree/master/images/1640004541.jpg) |
